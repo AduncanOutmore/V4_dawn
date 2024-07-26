@@ -10,5 +10,4 @@
 @use 'util'; // ← utility classes
 
 // ↓ import here the CodyHouse components
-@use 'components/_1_header' as *;
-@use 'components/_1_footer' as *;
+@use 'card-v4' as *;
